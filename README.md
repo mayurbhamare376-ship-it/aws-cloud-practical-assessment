@@ -1,7 +1,13 @@
 # AWS Cloud Practical Assessment
 
 ## Overview
+## Overview
 
+This project demonstrates hands-on implementation of core AWS Cloud services with a focus on security, access management, cloud storage, compute, and database recovery.
+
+The project includes IAM-based access control, EC2 and Amazon S3 integration using IAM Roles, and Amazon RDS database backup and recovery. It demonstrates the practical application of AWS permissions, secure resource access, database management, and recovery procedures.
+
+The objective of this project is to demonstrate practical understanding of AWS infrastructure and security concepts through real-world cloud implementation.
 This project demonstrates practical AWS Cloud concepts including IAM, EC2, S3, IAM Roles, and Amazon RDS backup and recovery.
 
 ## AWS Services Used
