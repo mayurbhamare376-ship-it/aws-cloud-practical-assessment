@@ -25,7 +25,7 @@ This project demonstrates practical AWS Cloud concepts including IAM, EC2, S3, I
 
 ![IAM Evidence](./Q1-IAM/readonly-denied.png)
 
-![IAM Evidence](./Q1-IAM/s3%20denied.png)
+![IAM Evidence](https://github.com/mayurbhamare376-ship-it/aws-cloud-practical-assessment/blob/85e714dc9de165906f0adff7770f65e1e0ed11e3/s3%20denied.png)
 
 ![IAM Evidence](./Q1-IAM/adhar%20denied.png)
 
