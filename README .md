@@ -40,7 +40,7 @@ Implemented AWS IAM security and access management.
 
 ### S3 Access Denied
 
-![S3 Access Denied](Q1-IAM/s3-denied.png)
+![S3 Access Denied](Q1-IAM/s3%20denied.png)
 
 ---
 
