@@ -36,7 +36,7 @@ Implemented AWS IAM security and access management.
 
 ### Read Only Access Denied
 
-![Read Only Denied](Q1-IAM/readonly-denied.png)
+![Read Only Denied](./Q1-IAM/readonly-denied.png)
 
 ### S3 Access Denied
 
