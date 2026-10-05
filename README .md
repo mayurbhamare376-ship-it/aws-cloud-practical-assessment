@@ -21,9 +21,6 @@ The project provides hands-on experience with **Identity and Access Management, 
 
 ---
 
-## 🏗️ AWS Architecture Diagram
-
-The architecture demonstrates the relationship between **IAM, EC2, S3, and Amazon RDS** and shows how secure access and data management are implemented within the AWS environment.
 
 ---
 
